@@ -24,3 +24,4 @@
 
 .idea/*
 spec/cache_requests/
+.DS_Store
