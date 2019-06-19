@@ -1,4 +1,4 @@
-# Warehouse API
+# Warehouse - Products API
 
 Ruby 2.6.2
 
